@@ -106,6 +106,11 @@ This is a list of materials and resources on causal inference for computer syste
 
 * [Causal Dataflow Analysis for Concurrent Programs](http://madhu.cs.illinois.edu/tacas07.pdf) (TOCAS, 2007)
 
+#### Updated on 05/26/2022
+
+* [Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps](https://arxiv.org/pdf/2204.11598.pdf) (ICSE 2022) _Infers CGMs and uses them to return root causes_.
+* [PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis](https://peimingliu.github.io/asset/pic/PUS.pdf) (ICSE 2022) _Generates a "causality subgraph" of points-to sets to identify invariants and scale pointer analysis._
+
 
 ## Notes
 
